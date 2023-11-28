@@ -1,0 +1,28 @@
+body
+{
+background-position: center;
+background-size:cover;
+}
+.heading{
+    width:100%;
+}
+.heading h1{
+ display:inline;
+}
+.heading button{
+    float:right;
+    border:5px solid blue;
+}
+#start,#status,#restart{
+ font-size:30px;
+}
+#pie_de_pagina{
+    background-color:blue;
+    color:white;
+    line-height:50px;
+}
+canvas{
+    border:5px solid blue;
+    border-radius:10px;
+    box-shadow:30px 27px 50px white
+}
